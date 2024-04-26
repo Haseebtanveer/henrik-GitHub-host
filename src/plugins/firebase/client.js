@@ -10,6 +10,7 @@ import { getAuth, GithubAuthProvider } from "firebase/auth";
 //     messagingSenderId: "313525337788",
 //     appId: "1:313525337788:web:0834a7a168fe39352adab9"
 // };
+s
 
 const firebaseConfig = {
     apiKey: "AIzaSyAeUEXtHKSYr_EhQ0-nkwQcTO-wT_PZEAg",
